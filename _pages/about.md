@@ -6,10 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
 Hi! I'm **Danning Li** (李丹宁), a recent graduate from [**McGill University**](https://www.mcgill.ca/), where I majored in **Statistics** with a minor in **Computer Science**.
 
-I am currently working as a **Research Assistant** at the [**The Hong Kong University of Science and Technology (Guangzhou)**](https://www.hkust-gz.edu.cn/) in the **Thrust of Financial Technology**, supervised by [**Dr. Chao Zhang**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHANG-Chao/chaoz).
+I am currently a **Red Bird MPhil Student** at the [**Hong Kong University of Science and Technology (Guangzhou)**](https://www.hkust-gz.edu.cn/) in the **Thrust of Financial Technology**, supervised by [**Dr. Chao Zhang**](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHANG-Chao/chaoz). My MPhil research focuses on **Robust AI for Asset Pricing**. I also work as a **Research Assistant** in the same group.
 
-My research interests lie in the application of **artificial intelligence** and **statistical methods** to problems in **finance**, **healthcare**, and **business**. I am passionate about exploring how data-driven approaches can generate insights and support decision-making in real-world settings.
+Prior to this, I collaborated with researchers at the **West China Hospital, Sichuan University**, where I contributed to the development of a statistically reliable large model for **breast pathology** clinical case analysis, working alongside Postdoctoral Researcher **Ting Yin** and Professor **Yuhao Yi**.
+
+My research interests lie broadly in **AI + X**, including the application of **artificial intelligence** and **statistical methods** to problems in **finance**, **healthcare**, and **business**. I am particularly interested in **Medical Vision-Language Models**, **World Models**, and data-driven approaches that generate insights and support decision-making in real-world settings.
