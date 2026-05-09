@@ -6,59 +6,60 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **MPhil in Financial Technology**, The Hong Kong University of Science and Technology (Guangzhou), 2028 (Expected)
+  * Thrust of Financial Technology, supervised by Dr. Chao Zhang
+  * Research focus: Robust AI for Asset Pricing
+* **B.A. in Statistics** (Minor: Computer Science), McGill University, 2025
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Spring 2026: Research Assistant**
+  * The Hong Kong University of Science and Technology (Guangzhou)
+  * Research on robust asset pricing under factor feature perturbations
+  * Supervisor: Dr. Chao Zhang
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Fall & Winter 2025: Research Assistant**
+  * West China Hospital, Sichuan University
+  * Fine-tuning pathology vision-language models; research on model honesty in clinical settings
+  * Collaborators: Postdoctoral Researcher Ting Yin, Professor Yuhao Yi
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Spring 2025: Research Assistant**
+  * The Hong Kong University of Science and Technology (Guangzhou)
+  * Research on asset pricing in financial market regime switching
+  * Supervisor: Dr. Chao Zhang
+
+* **Summer 2024: Research Assistant**
+  * Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+  * Deep learning algorithms for biological audio recognition and dataset construction
+  * Focus: infant cry detection and causal temporal representation
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Data Processing & Analysis**
+  * Statistical modeling, data wrangling, experimental design
+* **Statistical & Machine Learning**
+  * Classical statistical methods, deep learning, causal inference
+* **Multimodal & Vision-Language Models**
+  * Medical VLM fine-tuning, honesty evaluation, multimodal alignment
+* **Asset Pricing & Quantitative Finance**
+  * Factor models, regime switching, robust optimization
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **GeoWorld: Geometric World Models**
+  * Zeyu Zhang, **Danning Li**, et al.
+  * *CVPR 2026*
+
+* **FlashMo: Geometric Interpolants and Frequency-Aware Sparsity for Scalable Efficient Motion Generation**
+  * Zeyu Zhang\*, Yiran Wang\*, **Danning Li**\*, et al.
+  * *NeurIPS 2025* &nbsp;|&nbsp; <span style="color:#c0392b">**Co-first Author**</span>
+
+* **Infant Cry Detection Using Causal Temporal Representation**
+  * Minghao Fu\*, **Danning Li**\*, et al.
+  * *ICASSP 2025* &nbsp;|&nbsp; <span style="color:#c0392b">**Co-first Author**</span>
+
+(\* denotes equal contribution)
