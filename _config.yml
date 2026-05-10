@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-CN"
 site_theme               : "default"
 title                    : "Danning Li"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Danning Li"
+description              : &description "MPhil Student at HKUST(GZ) | AI + Finance & Healthcare"
 url                      : https://danninglee.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danninglee/danninglee.github.io"
@@ -20,12 +20,13 @@ repository               : "danninglee/danninglee.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Danning Li"
   pronouns         : "he/him"  
-  bio              : "Danning Li is a research assistant at HKUST (Guangzhou), working in the Thrust of Financial Technology under Dr. Chao Zhang.
+  bio              : "Danning Li is a research assistant at HKUST (Guangzhou), working in the Thrust of Financial Technology under Dr. Chao Zhang."Red Bird MPhil Student at HKUST (Guangzhou), Thrust of Financial Technology. Research on Robust AI for Asset Pricing. Interested in AI + X including Medical VLMs and World Models."
 "
   location         : "Guangzhou"
   employer         : "HKUST(GZ)"
