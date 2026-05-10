@@ -52,4 +52,4 @@ Publications
 ======
 * GeoWorld: Geometric World Models &nbsp;[[Poster](#)]&nbsp; [[CVPR 2026](https://cvpr.thecvf.com/)]
 * FlashMo: Geometric Interpolants and Frequency-Aware Sparsity for Scalable Efficient Motion Generation &nbsp;[[Poster](#)]&nbsp; [[NeurIPS 2025](https://neurips.cc/)]
-* Infant Cry Detection Using Causal Temporal Representation &nbsp;[[Post](#)]&nbsp; [[ICASSP 2025](https://2025.ieeeicassp.org/)]
+* Infant Cry Detection Using Causal Temporal Representation &nbsp;[[Poster](#)]&nbsp; [[ICASSP 2025](https://2025.ieeeicassp.org/)]
