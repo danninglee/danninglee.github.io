@@ -50,16 +50,6 @@ Skills
 
 Publications
 ======
-* **GeoWorld: Geometric World Models**
-  * Zeyu Zhang, **Danning Li**, et al.
-  * *CVPR 2026*
-
-* **FlashMo: Geometric Interpolants and Frequency-Aware Sparsity for Scalable Efficient Motion Generation**
-  * Zeyu Zhang\*, Yiran Wang\*, **Danning Li**\*, et al.
-  * *NeurIPS 2025* &nbsp;|&nbsp; <span style="color:#c0392b">**Co-first Author**</span>
-
-* **Infant Cry Detection Using Causal Temporal Representation**
-  * Minghao Fu\*, **Danning Li**\*, et al.
-  * *ICASSP 2025* &nbsp;|&nbsp; <span style="color:#c0392b">**Co-first Author**</span>
-
-(\* denotes equal contribution)
+* GeoWorld: Geometric World Models &nbsp;[[Poster](#)]&nbsp; [[CVPR 2026](https://cvpr.thecvf.com/)]
+* FlashMo: Geometric Interpolants and Frequency-Aware Sparsity for Scalable Efficient Motion Generation &nbsp;[[Poster](#)]&nbsp; [[NeurIPS 2025](https://neurips.cc/)]
+* Infant Cry Detection Using Causal Temporal Representation &nbsp;[[Post](#)]&nbsp; [[ICASSP 2025](https://2025.ieeeicassp.org/)]
