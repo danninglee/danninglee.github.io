@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-CN"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "Danning Li"
 title_separator          : "-"
 name                     : &name "Danning Li"
-description              : &description "MPhil Student at HKUST(GZ) | AI + Finance & Healthcare"
+description              : &description "MPhil Student in Financial Technology at HKUST(GZ) | AI for Finance & Healthcare"
 url                      : https://danninglee.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danninglee/danninglee.github.io"
@@ -25,13 +25,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Danning Li"
-  pronouns         : "he/him"  
-  bio              : "Danning Li is a research assistant at HKUST (Guangzhou), working in the Thrust of Financial Technology under Dr. Chao Zhang."Red Bird MPhil Student at HKUST (Guangzhou), Thrust of Financial Technology. Research on Robust AI for Asset Pricing. Interested in AI + X including Medical VLMs and World Models."
-"
+  pronouns         : "he/him"
+  bio              : "Red Bird MPhil Student at HKUST (Guangzhou), Thrust of Financial Technology. Research on Robust AI for Asset Pricing. Interested in AI + X, including Medical VLMs and World Models."
   location         : "Guangzhou"
   employer         : "HKUST(GZ)"
-  uri              : https://danninglee.github.io/
-  email            : "eccsha256@outlook.com" 
+  email            : "eccsha256@outlook.com"
 
   # Academic websites
   # academia         : # URL
@@ -80,10 +78,6 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
 

@@ -15,3 +15,7 @@ package-lock.json
 # Ignore the vendor file and bundle for alternative installation
 vendor/
 .bundle/
+
+# Jekyll cache and metadata
+.jekyll-cache/
+.jekyll-metadata
