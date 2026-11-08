@@ -42,7 +42,7 @@
   1. McGill University 统计学本科，计算机科学辅修，2025 年毕业
   2. HKUST(GZ) Red Bird MPhil Student，金融科技学域，导师 Dr. Chao Zhang；研究 Robust AI for Asset Pricing；同时担任 Research Assistant
   3. 与四川大学华西医院 Ting Yin、Yuhao Yi 合作，参与乳腺病理临床病例分析大模型研究
-- **Research Interests** 小节，列出：AI + X、Robust AI for Asset Pricing、Medical Vision-Language Models、World Models
+- **Research Interests** 小节，列出：Multimodal Learning、Generative AI
 - 页尾入口：`View my CV →`（Publications 暂时隐藏）
 - 侧栏信息：占位头像、姓名、pronouns (he/him)、简短 bio、Guangzhou、HKUST(GZ)、Email、GitHub；移除指向本站自身的 "Website" 链接
 
@@ -66,7 +66,7 @@
 版块顺序：
 
 1. **Education**
-   - MPhil in Financial Technology, HKUST (Guangzhou), 2028 (Expected)；Thrust of Financial Technology；Supervisor: Dr. Chao Zhang；Research focus: Robust AI for Asset Pricing
+   - MPhil in Financial Technology, HKUST (Guangzhou), 2028 (Expected)；Thrust of Financial Technology；Supervisor: Dr. Chao Zhang
    - B.A. in Statistics (Minor: Computer Science), McGill University, 2025
 2. **Research Experience**（沿用用户确认的现有 4 段，标题使用 "Research Experience"）
    - Spring 2026：Research Assistant, HKUST(GZ)；robust asset pricing under factor feature perturbations；Supervisor: Dr. Chao Zhang

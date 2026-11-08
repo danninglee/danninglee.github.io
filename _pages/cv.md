@@ -13,7 +13,6 @@ Education
 * **MPhil in Financial Technology**, The Hong Kong University of Science and Technology (Guangzhou), 2028 (Expected)
   * Thrust of Financial Technology
   * Supervisor: Dr. Chao Zhang
-  * Research focus: Robust AI for Asset Pricing
 * **B.A. in Statistics** (Minor: Computer Science), McGill University, 2025
 
 Research Experience
