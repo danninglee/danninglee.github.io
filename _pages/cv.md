@@ -35,12 +35,6 @@ Research Experience
   * Focus: infant cry detection and causal temporal representation
   * Supervisor: Hanan Aldarmaki
 
-Publications
-======
-* [**GeoWorld: Geometric World Models**](/publication/geoworld/), [CVPR 2026](https://cvpr.thecvf.com/)
-* [**FlashMo: Geometric Interpolants and Frequency-Aware Sparsity for Scalable Efficient Motion Generation**](/publication/flashmo/), [NeurIPS 2025](https://neurips.cc/)
-* [**Infant Cry Detection Using Causal Temporal Representation**](/publication/infant-cry-detection/), [ICASSP 2025](https://2025.ieeeicassp.org/)
-
 Skills
 ======
 * **Data Processing & Analysis**

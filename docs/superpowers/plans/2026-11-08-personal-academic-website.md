@@ -10,6 +10,8 @@
 
 **Spec:** `docs/superpowers/specs/2026-11-08-personal-academic-website-design.md`
 
+> **Scope update (2026-11-08):** The user decided not to publish the papers yet. Task 8 is superseded: keep the three publication files with `published: false`, remove the Publications nav item and CV publications section, and unpublish `_pages/publications.html`. Task 9 deployment proceeds with About + CV only.
+
 ---
 
 ## File Structure

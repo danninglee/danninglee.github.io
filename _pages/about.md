@@ -21,4 +21,4 @@ Prior to this, I collaborated with researchers at the **West China Hospital, Sic
 
 ---
 
-See my [**CV**](/cv/) for education and research experience, or browse my [**Publications**](/publications/).
+See my [**CV**](/cv/) for education and research experience.
