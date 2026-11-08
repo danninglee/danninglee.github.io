@@ -1,0 +1,15 @@
+{% assign item = include.item %}
+{% assign has_links = false %}
+{% if item.paperurl or item.arxivurl or item.codeurl or item.posterurl or item.bibtexurl %}
+  {% assign has_links = true %}
+{% endif %}
+{% if item.citation or has_links %}
+  <p class="publication-links">
+    {% if item.citation %}<span class="publication-citation">Recommended citation: {{ item.citation }}</span><br />{% endif %}
+    {% if item.paperurl %}<a href="{{ item.paperurl }}">Paper</a>{% endif %}
+    {% if item.arxivurl %}{% if item.paperurl %} | {% endif %}<a href="{{ item.arxivurl }}">arXiv</a>{% endif %}
+    {% if item.codeurl %}{% if item.paperurl or item.arxivurl %} | {% endif %}<a href="{{ item.codeurl }}">Code</a>{% endif %}
+    {% if item.posterurl %}{% if item.paperurl or item.arxivurl or item.codeurl %} | {% endif %}<a href="{{ item.posterurl }}">Poster</a>{% endif %}
+    {% if item.bibtexurl %}{% if item.paperurl or item.arxivurl or item.codeurl or item.posterurl %} | {% endif %}<a href="{{ item.bibtexurl }}">BibTeX</a>{% endif %}
+  </p>
+{% endif %}
