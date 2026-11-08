@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -12,4 +12,13 @@ I am currently a **Red Bird MPhil Student** at the [**Hong Kong University of Sc
 
 Prior to this, I collaborated with researchers at the **West China Hospital, Sichuan University**, where I contributed to the development of a statistically reliable large model for **breast pathology** clinical case analysis, working alongside Postdoctoral Researcher **Ting Yin** and Professor **Yuhao Yi**.
 
-My research interests lie broadly in **AI + X**, including the application of **artificial intelligence** and **statistical methods** to problems in **finance**, **healthcare**, and **business**. I am particularly interested in **Medical Vision-Language Models**, **World Models**, and data-driven approaches that generate insights and support decision-making in real-world settings.
+## Research Interests
+
+- **AI + X**: applying artificial intelligence and statistical methods to problems in finance, healthcare, and business
+- **Robust AI for Asset Pricing**
+- **Medical Vision-Language Models**
+- **World Models**
+
+---
+
+See my [**CV**](/cv/) for education and research experience, or browse my [**Publications**](/publications/).
